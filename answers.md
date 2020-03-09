@@ -33,7 +33,7 @@ console.log(wats + up, doc) // Line 8 of 8
 TODO
 ```
 
-### Third Clue (Lounge Pillar - Chalk Schedule)
+### Third Clue (Event Board - Chalk Schedule)
 
 **Code:**
 
