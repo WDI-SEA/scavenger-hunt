@@ -19,14 +19,89 @@ They do labels and lost and found and print requests too,
 They have a line of code that's just for you!
 ```
 
-### Second Clue
+### Second Clue (Front Lines)
 
-### Third Clue
+**Code:**
 
-### Fourth Clue
+```js
+console.log(wats + up, doc) // Line 8 of 8
+```
 
-### Fifth Clue
+**Clue:**
 
-### Sixth Clue
+```
+TODO
+```
 
-### Seventh Clue
+### Third Clue (Lounge Pillar - Chalk Schedule)
+
+**Code:**
+
+```js
+TODO
+```
+
+**Clue:**
+
+```
+TODO
+```
+
+### Fourth Clue (Student Experience)
+
+**Code:**
+
+```js
+TODO
+```
+
+**Clue:**
+
+```
+TODO
+```
+
+### Fifth Clue (Classroom 4, behind projector)
+
+**Code:**
+
+```js
+TODO
+```
+
+**Clue:**
+
+```
+TODO
+```
+
+### Sixth Clue (Career Coach)
+
+**Code:**
+
+```js
+TODO
+```
+
+**Clue:**
+
+```
+TODO
+```
+
+### Seventh Clue (Phone Booth)
+
+**Code:**
+
+```js
+TODO
+```
+
+**Clue:**
+
+```
+And now alas our game is done,
+I think it's been a lot of fun
+Back to class you know how this goes
+Now it's time to write some code!
+```
