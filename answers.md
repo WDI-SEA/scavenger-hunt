@@ -80,6 +80,8 @@ doc.unshift('N') // Line 6 of 8
 **Clue:**
 
 ```
+Oracle of LinkedIn, master of MeetUp
+She's the one you want when your career starts to heat up
 TODO
 ```
 
