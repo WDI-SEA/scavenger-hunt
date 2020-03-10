@@ -38,7 +38,7 @@ TODO
 **Code:**
 
 ```js
-TODO
+let up = doc.length ? ' ' : '!' // Line 5 of 8
 ```
 
 **Clue:**
@@ -52,7 +52,7 @@ TODO
 **Code:**
 
 ```js
-TODO
+let doc = ['TM'] // Line 2 of 8
 ```
 
 **Clue:**
@@ -66,7 +66,7 @@ TODO
 **Code:**
 
 ```js
-TODO
+doc.unshift('N') // Line 6 of 8
 ```
 
 **Clue:**
@@ -80,7 +80,7 @@ TODO
 **Code:**
 
 ```js
-TODO
+doc = doc.reverse().join('A') // Line 7 of 8
 ```
 
 **Clue:**
@@ -94,7 +94,7 @@ TODO
 **Code:**
 
 ```js
-TODO
+doc.push('B') // Line 4 of 8
 ```
 
 **Clue:**
