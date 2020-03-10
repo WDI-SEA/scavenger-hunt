@@ -61,8 +61,13 @@ let doc = ['TM'] // Line 2 of 8
 **Clue:**
 
 ```
-You're nearly halfway done, but don't be sad
+You may know her as Ops or Student Ex,
+But you don't know where you'll find her next!
+You're halfway done, but don't be sad
+We're about to send you to go see Mads!
 ```
+
+> Disclaimer: This may ACTUALLY be a scavenger hunt
 
 ### Fifth Clue (Student Experience)
 
