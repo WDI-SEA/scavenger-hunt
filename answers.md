@@ -82,7 +82,8 @@ doc.unshift('N') // Line 6 of 8
 ```
 Oracle of LinkedIn, master of MeetUp
 She's the one you want when your career starts to heat up
-TODO
+You're looking for jobs she's the one to call
+Ask about Seattle companies - she knows them all!
 ```
 
 ### Sixth Clue (Career Coach)
