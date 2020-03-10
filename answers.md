@@ -30,7 +30,10 @@ console.log(wats + up, doc) // Line 8 of 8
 **Clue:**
 
 ```
-TODO
+It's the gathering place where all want to be
+From lounge lurkers to GA staff to you and me
+In the midst of it all, standing so tall
+The event board pillar for students to see
 ```
 
 ### Third Clue (Event Board - Chalk Schedule)
@@ -47,7 +50,7 @@ let up = doc.length ? ' ' : '!' // Line 5 of 8
 TODO
 ```
 
-### Fourth Clue (Student Experience)
+### Fourth Clue (Classroom 4, behind projector)
 
 **Code:**
 
@@ -58,10 +61,10 @@ let doc = ['TM'] // Line 2 of 8
 **Clue:**
 
 ```
-TODO
+You're nearly halfway done, but don't be sad
 ```
 
-### Fifth Clue (Classroom 4, behind projector)
+### Fifth Clue (Student Experience)
 
 **Code:**
 
