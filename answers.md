@@ -122,3 +122,24 @@ I think it's been a lot of fun
 Back to class you know how this goes
 Now it's time to write some code!
 ```
+
+## Finished Code
+
+Students will order the code at the end to get the following:
+
+```js
+// JOKE: What happens when you send the signal? (Line 1 of 8)
+let doc = ['TM'] // Line 2 of 8
+let wats = Array(16).join('wat' - 1) // Line 3 of 8
+doc.push('B') // Line 4 of 8
+let up = doc.length ? ' ' : '!' // Line 5 of 8
+doc.unshift('N') // Line 6 of 8
+doc = doc.reverse().join('A') // Line 7 of 8
+console.log(wats + up, doc) // Line 8 of 8
+```
+
+When run, this prints out:
+
+```sh
+NaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaN  BATMAN
+```
