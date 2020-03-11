@@ -47,7 +47,8 @@ let up = doc.length ? ' ' : '!' // Line 5 of 8
 **Clue:**
 
 ```
-TODO
+You've had two clues but you want some more
+So look behind the projector in classroom four!
 ```
 
 ### Fourth Clue (Classroom 4, behind projector)
@@ -97,7 +98,12 @@ doc = doc.reverse().join('A') // Line 7 of 8
 **Clue:**
 
 ```
-TODO
+Don't call it a dungeon, that's not very nice
+Just call it cozy, now it's alright!
+This tiniest of rooms with the name of a pear
+You may want to take a phone call there!
+It's down the hall, barely more than a closet
+Across from the staff room, that's where you'll find it!
 ```
 
 ### Seventh Clue (Phone Booth)
